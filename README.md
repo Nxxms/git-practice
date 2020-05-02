@@ -1,7 +1,1 @@
-hoge
-hoge
-hoge
-hoge
-hoge
-hoge
-hoge
+Good day!
